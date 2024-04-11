@@ -29,3 +29,113 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Information
+
+<div align="center">
+<h3>Welcome to The Jungle!</h3>
+</div>
+
+<div align="center">
+<img  style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%"  
+      src="docs/jungle_intro.PNG"
+      alt="Photolabs homepage">
+</img>
+</div>
+
+<div align="center">
+<h4>The Jungle is a project where I got to experience being a junior developer in a new company with a new tech stack. The premise is that I would be given tasks to implement into the codebase and have it up and running! Let's see a few examples!</h4>
+</div>
+
+<div align="center">
+<h4>In this example, I had to implement a "Sold Out" segment when there was no inventory in the system:</h4>
+</div>
+
+<div align="center">
+<img  style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%"  
+      src="docs/jungle_products.PNG"
+      alt="Photolabs homepage">
+</img>
+</div>
+
+<div align="center">
+<h4>I also had to implement a basic user authentication with login/logout functions with encrypted passwords!:</h4>
+</div>
+
+<div align="center">
+<img  style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%"  
+      src="docs/jungle_navbar.PNG"
+      alt="Photolabs homepage">
+</img>
+</div>
+
+<div align="center">
+<h4>I've also protected the Admin pages with authentication as well:</h4>
+</div>
+
+<div align="center">
+<img  style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%"  
+      src="docs/admin_authentication.PNG"
+      alt="Photolabs homepage">
+</img>
+</div>
+
+<div align="center">
+<h4>Once inside the admin pages, I've implemented a page where the admin can create a category section to organize inventory:</h4>
+</div>
+
+<div align="center">
+<img  style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%"  
+      src="docs/admin_categories.PNG"
+      alt="Photolabs homepage">
+</img>
+</div>
+
+<div align="center">
+<h4>I've also got to implement testing with Stripe with their testing api to successfully place an order:</h4>
+</div>
+
+<div align="center">
+<img  style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%"  
+      src="docs/jungle_stripe.PNG"
+      alt="Photolabs homepage">
+</img>
+</div>
+
+<div align="center">
+<h4>I was also able to create a page where verification of a purchase was successful:</h4>
+</div>
+
+<div align="center">
+<img  style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%"  
+      src="docs/finished_order.PNG"
+      alt="Photolabs homepage">
+</img>
+</div>
+
+<div align="center">
+<h4>This was one of my favorite projects because it emulated the real world and felt really productive!</h4>
+
+<h4>Cool!!!</h4>
+</div>
